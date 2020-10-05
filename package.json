@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-mailerlite-api",
+  "version": "1.0.0",
+  "description": "This Code helps you to add subscribe to Specific Group.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnaveen/NodeJS-MailerLite-API.git"
+  },
+  "keywords": [
+    "mailerlite"
+  ],
+  "author": "MC Naveen",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/mcnaveen/NodeJS-MailerLite-API/issues"
+  },
+  "homepage": "https://github.com/mcnaveen/NodeJS-MailerLite-API#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

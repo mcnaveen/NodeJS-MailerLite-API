@@ -1,10 +1,33 @@
 # NodeJS MailerLite API
+
 🦄 This Code helps you to add subscribe to Specific Group
 
-### ✅ Works with Chatbot which uses HTTP Action
-* Tested with Multiple Chatbots
+## Usage
 
-### 📖 Instructions
+- Clone or Download the repo
 
-* Change API Key in <a href="/index.js#L10">Line 10</a>
-* Change Group ID in <a href="/index.js#L10">Line 17</a>
+```sh
+git clone https://github.com/mcnaveen/NodeJS-MailerLite-API.git
+cd NodeJS-MailerLite-API
+npm install
+```
+
+- create `.env` file and add Mailerlite API key and group ID
+
+```sh
+touch .env
+```
+
+- Run the Script
+
+```sh
+npm start
+```
+
+## Works with Chatbot which uses HTTP Action
+
+> Tested with Multiple Chatbots
+
+## LICENSE
+
+GPL
